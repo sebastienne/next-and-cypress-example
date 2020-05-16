@@ -14,7 +14,7 @@
     "check-coverage-limits": "nyc report --reporter=text-summary --check-coverage --statements 100"
   },
   "dependencies": {
-    "babel-plugin-istanbul": "5.2.0",
+    "babel-plugin-istanbul": "6.0.0",
     "isomorphic-unfetch": "3.0.0",
     "next": "9.4.0",
     "react": "16.13.1",
